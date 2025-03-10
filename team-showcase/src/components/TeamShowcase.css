@@ -1,0 +1,6 @@
+.employee-card{
+    display: grid;
+    justify-content: flex;
+    border: 0cap;
+    border-color: aqua;
+}
